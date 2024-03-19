@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'SpaceMono';
+    src: local('SpaceMono'), url(./SpaceMono-Regular.woff2) format('woff');
+}
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: local('SpaceMono-Bold'), url(./SpaceMono-Bold.woff2) format('woff');
+}
+.wh{
+    font-family: 'SpaceMono-Bold';
+    color: black;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.Link1{
+    font-size: 20px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: black;
+    font-family: 'SpaceMono-Bold';
+}
+.tab{
+    padding: 60px;
+}

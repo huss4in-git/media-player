@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'SpaceMono';
+    src: local('SpaceMono'), url(./SpaceMono-Regular.woff2) format('woff');
+}
+.links{
+    font-family: 'SpaceMono';
+}
+.website{
+    font-family: 'SpaceMono';
+}
+.guides{
+    font-family: 'SpaceMono';
+}
+.contacts{
+    font-family: 'SpaceMono';
+}

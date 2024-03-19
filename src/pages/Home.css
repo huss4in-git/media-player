@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: local('SpaceMono-Bold'), url(./SpaceMono-Bold.woff2) format('woff');
+}
+.Link{
+    font-size: 25px;
+    margin-right: 85px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    font-family: 'SpaceMono-Bold';
+}
+.av{
+    font-family: 'SpaceMono-Bold';
+    color: black;
+    margin-left: 30px;
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: local('SpaceMono-Bold'), url(./SpaceMono-Bold.woff2) format('woff');
+}
+@font-face {
+    font-family: 'SpaceMono';
+    src: local('SpaceMono'), url(./SpaceMono-Regular.woff2) format('woff');
+}
+.upload{
+    font-family: 'SpaceMono-Bold';
+    color: black;
+    margin-left: 85px;
+}
+.mod{
+    font-family: 'SpaceMono';
+    color: black;
+}

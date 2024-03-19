@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'SpaceMono';
+    src: local('SpaceMono'), url(./SpaceMono-Regular.woff2) format('woff');
+}
+
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: local('SpaceMono-Bold'), url(./SpaceMono-Bold.woff2) format('woff');
+}
+
+@font-face {
+    font-family: 'Monteserrat-Bold';
+    src: local('Monteserrat-Bold'), url(./Montserrat-Bold.woff2) format('woff');
+}
+
+.desc {
+    font-family: 'SpaceMono';
+}
+
+.wel {
+    font-family: 'SpaceMono-Bold';
+    
+}
+
+.feat {
+    background-color: #ffff38;
+}
+
+.feat1 {
+    background-color: #ffff38;
+    font-family: 'SpaceMono-Bold';
+    color: black;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    font-size: 3vw;
+    text-align: center;
+}
+.simp{
+    font-family: 'SpaceMono-Bold';
+    color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 3vw;
+}
+
+.simp1{
+    background-color: #1cf1ff;
+}
+
+.line{
+    margin-top: 100px;
+}
+
+.mv1 {
+    margin-top:20px;
+    font-family: 'SpaceMono-Bold';
+    font-size: 15px;
+}
+
+.gif{
+    margin-top: 40px;
+    margin-bottom: 160px;
+}
+
+.play{
+    font-family: 'SpaceMono-Bold';
+    color: black;
+}
+
+.play1{
+    font-family: 'SpaceMono';
+    color: black;
+    font-size: 1.23vw;
+}
+
+.cloud{
+    position: absolute;
+    left: 7%;
+    margin-top: 300px;
+}
+
+.cloud1{
+    position: absolute;
+    right: 5%;
+    margin-top: -400px;
+}
+
+#mark_text {
+    width: 40.23vw;
+    background-color: #0e1016;
+    border-radius: 20px;
+    padding: 3vw 3.8vw 3vw;
+    margin-left: 10vw;
+    margin-top: 100px;
+    position: relative;
+    z-index: 111;
+    transform: rotate(5deg);
+    
+}
+
+.sticker{
+    font-family: 'SpaceMono-Bold';
+    background-color: #0e1016;
+    color: white;
+}
+#mark_text p {
+    font-size: 1.5vw;
+    line-height: 140%;
+    color: #fff;
+}
+.giphy{
+    margin-bottom: -195px;
+    margin-top: 30px;
+}
+.maingif{
+    margin-left: 100px;
+}
+
+.mob{
+    height: 300px;
+    margin-left: 230px;
+    margin-top: 150px;
+}

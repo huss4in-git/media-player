@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: local('SpaceMono-Bold'), url(./SpaceMono-Bold.woff2) format('woff');
+}
+.head{
+    font-family: 'SpaceMono-Bold';
+    background-color: #3dff88;
+}
+body{
+    background-color: #3dff88;
+}
+.nav{
+    font-family: 'SpaceMono-Bold';
+    font-size: 16px;
+    position: absolute;
+    right: 20%;
+    z-index: 1;
+    background-color: transparent;
+
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}

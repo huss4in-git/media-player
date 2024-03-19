@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SpaceMono';
+    src: local('SpaceMono'), url(./SpaceMono-Regular.woff2) format('woff');
+}
+
+.no{
+    font-family: 'SpaceMono';
+}
